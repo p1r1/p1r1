@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @p1r1
 - 👀 I’m interested in Game Engines, ERP Softwares and Restful Sevices
-- 🌱 I’m currently learning Python
+
 
 
 <!---
