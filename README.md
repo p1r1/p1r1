@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @p1r1
+- 👋 Hi, I’m Faruk
 - 👀 I’m interested in Game Engines, ERP Softwares and Restful Sevices
 
 
